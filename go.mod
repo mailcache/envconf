@@ -1,4 +1,4 @@
-module envconf
+module github.com/mailcache/envconf
 
 go 1.26.5
 
